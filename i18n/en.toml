@@ -21,3 +21,6 @@ other = "Diplomas"
 
 [interests]
 other = "Interests"
+
+[certifications]
+other = "Certifications"
